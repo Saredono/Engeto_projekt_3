@@ -1,3 +1,12 @@
+"""
+python_projekt3.py: třetí projekt do Engeto Online Python Akademie
+author: Tomáš Golasowski
+email: golasowski.tomas@gmail.com
+discord: Tomáš G.
+"""
+
+
+
 import sys
 import csv
 import requests
