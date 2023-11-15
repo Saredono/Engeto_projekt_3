@@ -6,9 +6,9 @@ Knihovny, které je nutné mít nainstalované pro správné spuštění skriptu
 
 **Spuštění projektu**
 
-Spuštění programu election_scraper.py v příkazovém řádku požaduje dva povinné argumenty – odkaz na stránku okresu, který chceme extrahovat a výstupní CSV soubor.
+Spuštění programu scraper.py v příkazovém řádku požaduje dva povinné argumenty – odkaz na stránku okresu, který chceme extrahovat a výstupní CSV soubor.
 
-Př.: python scraper.py [odkaz územního celku] [výsledný soubor] Data z uvedeného odkazu se stáhnou a uloží do souboru CSV. Odkaz je nutné zadávat v plné délce, tedy https://www.volby.cz/... a CSV soubor je možné pojmenovat libovolně.
+Př. použití: python scraper.py [odkaz územního celku] [výsledný soubor]. Data z uvedeného odkazu se stáhnou a uloží do souboru CSV. Odkaz je nutné zadávat v plné délce, tedy https://www.volby.cz/... a CSV soubor je možné pojmenovat libovolně.
 
 **Ukázka**
 
